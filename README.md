@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## ABOUT
+Hello there! Welcome to my webpage. I am a graduate student at Arizona State University currently pursuing my PhD in Materials Science and Engineering at the Multiphysics Lab at Arizona State University. My research journey at ASU advised by Prof. Kiran Solanki over the past few years has been focusing on understanding the mechanical and irradiation properties of metallic alloys using advanced microscopy and mechanical characterizations.
 
-You can use the [editor on GitHub](https://github.com/soundaryasrinivasan3/soundaryasrinivasan3.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Outside of my research, I love to hike, cook and constantly strive to improve my average singing skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soundaryasrinivasan3/soundaryasrinivasan3.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
