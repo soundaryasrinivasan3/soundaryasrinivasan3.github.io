@@ -12,6 +12,19 @@ Hello there! Welcome to my webpage. I am a graduate student currently pursuing m
 <h1 align="center">
 Skills
 </h1>
+<p align = center>
+Transmission Electron Microscopy (TEM)<br>
+Focused Ion Beam (FIB)<br>
+Scanning Electron Microscopy (SEM)<br>
+Nanoindentation<br>
+X-Ray Diffraction (XRD)<br>
+Surface Profilometry<br>
+Chemical Analysis (EDS/EELS)<br>
+Mechanical Testing<br>
+<a href="http://www.srim.org/">SRIM </a> (The Stopping and Range of Ions in Matter)<br>
+MATLAB<br>
+</p>
+
 
 <h1 align="center">
 Timeline
