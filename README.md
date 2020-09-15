@@ -25,12 +25,6 @@ Mechanical Testing<br>
 MATLAB<br>
 </p>
 
-
-<h1 align="center">
-Timeline
-</h1>
-
-
 <h1 align="center">
 Contact
 </h1>
@@ -38,5 +32,8 @@ Contact
  <a href="https://www.linkedin.com/in/soundarya-srinivasan-b1186755/">
          <img alt="LinkedIn" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent-2048x1453.png"
           height="46"></a>
+  <a href="https://scholar.google.com/citations?user=yjougrIAAAAJ&hl=en&authuser=1">
+         <img alt="GoogleScholar" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
+          height="45"></a>
 </p>
 </div>
