@@ -30,8 +30,13 @@ MATLAB<br>
 Timeline
 </h1>
 
+
 <h1 align="center">
 Contact
 </h1>
-
+<p align = center>
+ <a href="https://www.linkedin.com/in/soundarya-srinivasan-b1186755/">
+         <img alt="LinkedIn" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent-2048x1453.png"
+          height="46"></a>
+</p>
 </div>
